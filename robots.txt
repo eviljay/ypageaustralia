@@ -1,0 +1,13 @@
+User-agent: Mediapartners-Google
+Disallow:
+
+User-agent: *
+Disallow:
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: Linguee Bot
+Disallow: /
+
+Sitemap: https://www.ypagesaustralia.com/sitemap.xml
