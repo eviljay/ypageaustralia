@@ -10,4 +10,4 @@ Disallow: /
 User-agent: Linguee Bot
 Disallow: /
 
-Sitemap: https://www.ypagesaustralia.com/sitemap.xml
+Sitemap: http://www.ypagesaustralia.com/sitemap.xlm
